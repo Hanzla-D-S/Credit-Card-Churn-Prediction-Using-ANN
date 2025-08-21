@@ -1,15 +1,10 @@
-Credit Card Customer Churn Prediction (ANN Model)
+#  Credit Card Customer Churn Prediction (ANN Model)
 
-This project builds an Artificial Neural Network (ANN) to predict customer churn using the Credit Card Customer Churn dataset from Kaggle.
+This project builds an **Artificial Neural Network (ANN)** to predict customer churn using the **Credit Card Customer Churn dataset** from Kaggle.
 
-Key steps included:
-
-Data preprocessing (cleaning, encoding, scaling)
-
-Splitting into training & testing sets
-
-Building and training an ANN with Keras & TensorFlow
-
-Evaluating model performance with accuracy score
-
-Making predictions for new customer data
+##  Key Steps
+- **Data Preprocessing:** Cleaning, encoding, and scaling  
+- **Train/Test Split:** Dividing the dataset into training & testing sets  
+- **Model Building:** Creating an ANN with Keras & TensorFlow  
+- **Model Evaluation:** Checking accuracy on test data  
+- **Prediction:** Making predictions for new customer input  
